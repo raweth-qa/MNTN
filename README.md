@@ -1,6 +1,7 @@
 # MNTN
 # The public api being tested == https://httpbin.org and it does have a swagger page and a full variation of method calls Get,Post,Put,Delete and Patch.
-  ### I will be using the https protocol (no one should use http) without a key (auth token or jwt) but am very familiar with this security protocol
+  ### I will be using the https protocol (no one should use http) without a key (auth token or jwt) but am very familiar with 
+  ### these and other security protocols
   
 ## The code will be standalone requireing python3 and the following modules:
    - requests
