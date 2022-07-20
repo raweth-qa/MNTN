@@ -4,14 +4,14 @@
   ###I will be using the https protocol (no one should use http) without a key (auth token or jwt) but am very familiar with this security protocol
   
 ##The code will be standalone requireing python3 and the following modules:
-   ###requests
-   ###json
+   -requests
+   -json
    
    
 ##For the assessment, please choose a public API to automate and provide the following:
- 	###Executable automation you have written to verify the public API == 
- 	###Explanation of your approach
- 	###Pros and cons of approach
+ 	-Executable automation you have written to verify the public API == 
+ 	-Explanation of your approach
+ 	-Pros and cons of approach
    
    
  
