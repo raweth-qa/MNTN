@@ -166,7 +166,6 @@ class TestHttpBin (unittest.TestCase):
     def test_anything_delete_anything(self):
         r = client.anything_delete_anything("joemama")
         client.resp_good(r)
-        bkpoint()
         assert r.json()['url'] == r.url
 
 
