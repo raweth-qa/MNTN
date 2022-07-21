@@ -16,9 +16,8 @@
  
 ## For the assessment, please choose a public API to automate and provide the following:
  	- Executable automation you have written to verify the public API 
-     >>> please run the following in shell (or windows.cmd) 
-     
-         >>> python3 httpbin_basic.py
+     >>> run the following in shell (or windows.cmd) 
+         python3 httpbin_basic.py
          
  	- Explanation of your approach
  	    This is prototype code
