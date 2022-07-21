@@ -1,5 +1,6 @@
 # MNTN
-# The public api being tested == https://httpbin.org and it does have a swagger page and a full variation of method calls Get,Post,Put,Delete
+# The public api being tested == https://httpbin.org which has a swagger page and a full variation of method calls 
+   - Get,Post,Put,Delete
   ### I will be using the https protocol (no one should use http)  this is done without a key (auth token or jwt)  
   ### but I am very familiar with these and other security protocols
   
