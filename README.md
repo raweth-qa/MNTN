@@ -29,6 +29,17 @@
  	
   
  	- Pros and cons of approach
+    - Pros
+       This is a single encapsulted file with the api client wrap class
+       A unttest of some extremely basic calls defined in test calss TestHttpBin with the test methods
+       Calling of this test 
+       It does in fact work and will provide basic tests of simple functionality
+    - Cons   
+       Primarily actual open APIs themselves such as this. The calls are trivial and state is not maintained (no redis or my sql behind this)
+       The actual calls use far too much path manipulation esp on post (wi querry strings) and Put .. this is a bit odd
+       This is NOT an good indicator of a proper framwork but something I could slap together in a few hours
+       
+    
    
    
  
